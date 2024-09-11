@@ -38,3 +38,16 @@
 09-11-2024 15:30:39 : INFO : logger : # The number of iterations required to converge: 15
 09-11-2024 15:30:39 : INFO : logger : Plotting a pie chart
 09-11-2024 15:30:39 : INFO : logger : Plotting a pie chart
+09-11-2024 18:31:23 : INFO : logger : Initialized user_experience logger
+09-11-2024 18:31:26 : INFO : logger : Successfully Instantiated Preprocessing Class Object
+09-11-2024 18:31:26 : INFO : logger : Successfully Instantiated Outlier Class Object
+09-11-2024 18:31:34 : INFO : logger : Plotting a bar chart
+09-11-2024 18:31:34 : INFO : logger : Plotting a bar chart
+09-11-2024 18:31:36 : INFO : logger : # Centroids of the clustering:
+[[0.02763609 0.10092808 0.10529219]
+ [0.02620703 0.05762245 0.10348988]
+ [0.12706857 0.05773394 0.10382649]]
+09-11-2024 18:31:36 : INFO : logger : # The number of iterations required to converge: 18.783500533156605
+09-11-2024 18:31:36 : INFO : logger : # The number of iterations required to converge: 15
+09-11-2024 18:31:36 : INFO : logger : Plotting a pie chart
+09-11-2024 18:31:36 : INFO : logger : Plotting a pie chart
