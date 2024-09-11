@@ -66,3 +66,9 @@
 09-11-2024 04:03:33 : INFO : logger : Plotting a bar chart
 09-11-2024 04:18:13 : INFO : logger : Plotting a pie chart
 09-11-2024 04:19:00 : INFO : logger : Plotting a pie chart
+09-11-2024 04:22:08 : INFO : logger : Successfully Instantiated Preprocessing Class Object
+09-11-2024 04:22:08 : INFO : logger : Successfully Instantiated Outlier Class Object
+09-11-2024 04:22:18 : INFO : logger : Plotting a bar chart
+09-11-2024 04:22:18 : INFO : logger : Plotting a bar chart
+09-11-2024 04:22:20 : INFO : logger : Plotting a pie chart
+09-11-2024 04:22:20 : INFO : logger : Plotting a pie chart
