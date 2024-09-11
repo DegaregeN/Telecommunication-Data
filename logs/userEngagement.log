@@ -19,3 +19,6 @@
 09-11-2024 04:22:18 : INFO : logger : Plotting a bar chart
 09-11-2024 04:22:20 : INFO : logger : Plotting a pie chart
 09-11-2024 04:22:20 : INFO : logger : Plotting a pie chart
+09-11-2024 04:42:05 : INFO : logger : Initialized userEngagement.py logger
+09-11-2024 04:42:07 : INFO : logger : Successfully Instantiated Preprocessing Class Object
+09-11-2024 04:42:07 : INFO : logger : Successfully Instantiated Outlier Class Object
