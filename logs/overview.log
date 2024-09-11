@@ -12,3 +12,15 @@
 09-11-2024 04:22:20 : INFO : logger : Plotting a pie chart
 09-11-2024 04:22:20 : INFO : logger : Plotting a pie chart
 09-11-2024 04:42:07 : INFO : logger : Successfully Instantiated Outlier Class Object
+09-11-2024 15:24:32 : INFO : logger : Successfully Instantiated Outlier Class Object
+09-11-2024 15:30:28 : INFO : logger : Successfully Instantiated Outlier Class Object
+09-11-2024 15:30:37 : INFO : logger : Plotting a bar chart
+09-11-2024 15:30:37 : INFO : logger : Plotting a bar chart
+09-11-2024 15:30:39 : INFO : logger : # Centroids of the clustering:
+[[0.02763609 0.10092808 0.10529219]
+ [0.02620703 0.05762245 0.10348988]
+ [0.12706857 0.05773394 0.10382649]]
+09-11-2024 15:30:39 : INFO : logger : # The number of iterations required to converge: 18.783500533156605
+09-11-2024 15:30:39 : INFO : logger : # The number of iterations required to converge: 15
+09-11-2024 15:30:39 : INFO : logger : Plotting a pie chart
+09-11-2024 15:30:39 : INFO : logger : Plotting a pie chart
