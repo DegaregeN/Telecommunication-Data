@@ -1,0 +1,9 @@
+matplotlib
+numpy==1.22.3
+pandas==1.4.2
+plotly==5.7.0
+seaborn
+streamlit==1.8.1 
+streamlit_option_menu
+sklearn
+kneed
