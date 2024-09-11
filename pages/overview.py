@@ -21,12 +21,6 @@ def overview_app():
     df = pd.read_csv('./data/cleaned telecom data.csv', nrows=number)
     st.write(df)
 
-    st.header("Top 5 handsets type manufactured by apple")
-    top_5_app = pd.read_csv('./data/app data.csv')
-    fig = px.bar(top_5_app, x='Handset', y='count', height=500)
-    st.plotly_chart(fig)
-
-
     st.header("Duration Distribution")
     image = Image.open('./assets/Durationdist.png')
     st.image(image, caption="Duration Distribution", use_column_width=True)
